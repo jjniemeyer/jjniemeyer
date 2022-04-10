@@ -1,4 +1,4 @@
-- 📫 How to reach me: jani5714@colorado.edu
+- 📫 How to reach me: jasper.j.niemeyer@gmail.com
 
 <!---
 jjniemeyer/jjniemeyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
